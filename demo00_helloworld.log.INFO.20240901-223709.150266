@@ -1,0 +1,27 @@
+Log file created at: 2024/09/01 22:37:09
+Running on machine: in-dev-docker
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0901 22:37:09.119966 150266 global_data.cc:153] host ip: 192.168.1.5
+W0901 22:37:09.120096 150266 environment.h:33] Environment variable [CYBER_PATH] not set, fallback to 
+W0901 22:37:09.123126 150266 environment.h:33] Environment variable [CYBER_PATH] not set, fallback to 
+W0901 22:37:09.123153 150266 scheduler_factory.cc:63] Scheduler conf named /apollo/cyber/conf/demo00_helloworld_150266.conf not found, use default.
+W0901 22:37:09.123176 150266 environment.h:33] Environment variable [CYBER_PATH] not set, fallback to 
+I0901 22:37:09.123334 150269 processor.cc:42] processor_tid: 150269
+I0901 22:37:09.123420 150270 processor.cc:42] processor_tid: 150270
+I0901 22:37:09.123485 150271 processor.cc:42] processor_tid: 150271
+I0901 22:37:09.123556 150272 processor.cc:42] processor_tid: 150272
+I0901 22:37:09.123625 150273 processor.cc:42] processor_tid: 150273
+I0901 22:37:09.123679 150274 processor.cc:42] processor_tid: 150274
+I0901 22:37:09.123746 150275 processor.cc:42] processor_tid: 150275
+I0901 22:37:09.123806 150276 processor.cc:42] processor_tid: 150276
+I0901 22:37:09.123863 150277 processor.cc:42] processor_tid: 150277
+I0901 22:37:09.123916 150278 processor.cc:42] processor_tid: 150278
+I0901 22:37:09.123968 150279 processor.cc:42] processor_tid: 150279
+I0901 22:37:09.124017 150280 processor.cc:42] processor_tid: 150280
+I0901 22:37:09.124068 150281 processor.cc:42] processor_tid: 150281
+I0901 22:37:09.124116 150282 processor.cc:42] processor_tid: 150282
+I0901 22:37:09.124161 150283 processor.cc:42] processor_tid: 150283
+I0901 22:37:09.124207 150284 processor.cc:42] processor_tid: 150284
+W0901 22:37:09.124218 150266 environment.h:33] Environment variable [sysmo_start] not set, fallback to 
+I0901 22:37:09.124230 150266 init.cc:116] Register exit handle succ.
+I0901 22:37:09.124344 150266 demo00_helloworld.cc:6] hello world

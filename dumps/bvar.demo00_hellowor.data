@@ -1,0 +1,7 @@
+demo00_hellowor_bvar_dump_interval : 10
+demo00_hellowor_cpu_usage_count : 1
+demo00_hellowor_gcc_version : "7.5.0"
+demo00_hellowor_mem_resident_usage_count : 1
+demo00_hellowor_pgrp : 150266
+demo00_hellowor_pid : 150266
+demo00_hellowor_ppid : 136730
