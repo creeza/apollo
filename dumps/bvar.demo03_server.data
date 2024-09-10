@@ -1,0 +1,13 @@
+demo03_server_add_int_server_node_addints_srv_response : 0
+demo03_server_bvar_dump_interval : 10
+demo03_server_bvar_sampler_collector_usage : 0.000198289
+demo03_server_cpu_usage_count : 72
+demo03_server_gcc_version : "7.5.0"
+demo03_server_mem_resident_usage_count : 71
+demo03_server_pgrp : 117911
+demo03_server_pid : 117911
+demo03_server_ppid : 527315
+demo03_server_system_core_count : 12
+demo03_server_system_loadavg_15m : 1.400
+demo03_server_system_loadavg_1m : 1.240
+demo03_server_system_loadavg_5m : 1.330
