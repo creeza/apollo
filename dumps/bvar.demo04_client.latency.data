@@ -1,0 +1,14 @@
+demo04_client_cpu_usage_latency : 0
+demo04_client_cpu_usage_latency_80 : 0
+demo04_client_cpu_usage_latency_90 : 0
+demo04_client_cpu_usage_latency_99 : 0
+demo04_client_cpu_usage_latency_999 : 0
+demo04_client_cpu_usage_latency_9999 : 0
+demo04_client_cpu_usage_max_latency : 0
+demo04_client_mem_resident_usage_latency : 0
+demo04_client_mem_resident_usage_latency_80 : 0
+demo04_client_mem_resident_usage_latency_90 : 0
+demo04_client_mem_resident_usage_latency_99 : 0
+demo04_client_mem_resident_usage_latency_999 : 0
+demo04_client_mem_resident_usage_latency_9999 : 0
+demo04_client_mem_resident_usage_max_latency : 0

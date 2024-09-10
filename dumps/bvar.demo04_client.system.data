@@ -1,0 +1,33 @@
+demo04_client_kernel_version : "Linux in-dev-docker 5.15.0-119-generic #129~20.04.1-Ubuntu SMP Wed Aug 7 13:07:13 UTC 2024 x86_64 x86_64 x86_64 GNU/Linux
+"
+demo04_client_process_cmdline : "./bazel-bin/cyber/demo_cc/demo04_client
+20
+100
+"
+demo04_client_process_context_switches_involuntary_second : 0
+demo04_client_process_context_switches_voluntary_second : 0
+demo04_client_process_cpu_usage : 0.000
+demo04_client_process_cpu_usage_system : 0.000
+demo04_client_process_cpu_usage_user : 0.000
+demo04_client_process_disk_read_bytes_second : 0
+demo04_client_process_disk_write_bytes_second : 0
+demo04_client_process_faults_major : 0
+demo04_client_process_faults_minor_second : 0
+demo04_client_process_fd_count : 16
+demo04_client_process_inblocks_second : 0
+demo04_client_process_io_read_bytes_second : 0
+demo04_client_process_io_read_second : 0
+demo04_client_process_io_write_bytes_second : 0
+demo04_client_process_io_write_second : 0
+demo04_client_process_memory_data_and_stack : 193249280
+demo04_client_process_memory_resident : 77389824
+demo04_client_process_memory_shared : 71196672
+demo04_client_process_memory_text : 2818048
+demo04_client_process_memory_virtual : 1588813824
+demo04_client_process_nice : 0
+demo04_client_process_outblocks_second : 0
+demo04_client_process_priority : 20
+demo04_client_process_thread_count : 2
+demo04_client_process_uptime : 0.011749
+demo04_client_process_username : "unknown (No such device or address)"
+demo04_client_process_work_dir : "/apollo"

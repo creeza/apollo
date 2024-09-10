@@ -1,0 +1,11 @@
+demo04_client_bvar_dump_interval : 10
+demo04_client_cpu_usage_count : 1
+demo04_client_gcc_version : "7.5.0"
+demo04_client_mem_resident_usage_count : 1
+demo04_client_pgrp : 119951
+demo04_client_pid : 119951
+demo04_client_ppid : 4078028
+demo04_client_system_core_count : 12
+demo04_client_system_loadavg_15m : 1.410
+demo04_client_system_loadavg_1m : 1.460
+demo04_client_system_loadavg_5m : 1.390

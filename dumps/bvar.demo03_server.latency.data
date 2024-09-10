@@ -1,0 +1,14 @@
+demo03_server_cpu_usage_latency : 3
+demo03_server_cpu_usage_latency_80 : 3
+demo03_server_cpu_usage_latency_90 : 3
+demo03_server_cpu_usage_latency_99 : 3
+demo03_server_cpu_usage_latency_999 : 3
+demo03_server_cpu_usage_latency_9999 : 3
+demo03_server_cpu_usage_max_latency : 3
+demo03_server_mem_resident_usage_latency : 85196
+demo03_server_mem_resident_usage_latency_80 : 85196
+demo03_server_mem_resident_usage_latency_90 : 85196
+demo03_server_mem_resident_usage_latency_99 : 85196
+demo03_server_mem_resident_usage_latency_999 : 85196
+demo03_server_mem_resident_usage_latency_9999 : 85196
+demo03_server_mem_resident_usage_max_latency : 85196
